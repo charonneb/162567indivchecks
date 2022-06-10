@@ -4,7 +4,7 @@ A template to create a CV while learning HTML and CSS
 
 ## See it live!
 
-Click on [<https://buas-media-interactive.github.io/prj4-cv/> ](https://charonneb.github.io/162567indivchecks/)to see what the résumé looks like when published!
+Click on [<(https://charonneb.github.io/162567indivchecks/)>](https://charonneb.github.io/162567indivchecks/)to see what the résumé looks like when published!
 
 ## Create your own CV
 
